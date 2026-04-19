@@ -1,0 +1,15 @@
+{
+    "owner": {
+        "username": "icelessusr",
+        "email": "iceless.usr@gmail.com"
+    },
+    "records": {
+        "CNAME": "watercup.ddns.net",
+        "SRV": {
+            "service": "_minecraft",
+            "protocol": "_tcp",
+            "port": 25565,
+            "target": "stardew.icel.is-a.dev"
+        }
+    }
+}
