@@ -1,6 +1,7 @@
 {
     "owner": {
-        "username": "icelessusr"
+        "username": "icelessusr",
+        "email": "iceless.usr@gmail.com"
     },
     "records": {
         "CNAME": "watercup.ddns.net"
